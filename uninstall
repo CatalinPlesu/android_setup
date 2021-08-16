@@ -21,7 +21,7 @@ com.google.android.apps.books #Books
 com.google.android.apps.plus #Google+
 com.google.android.play.games #Play Games
 com.google.android.talk #Hangouts
-com.google.android.apps.messaging #Google Messaging
+# com.google.android.apps.messaging #Google Messaging
 com.google.android.marvin.talkback #Google Talkback
 com.google.android.apps.wellbeing #Google Wellbeing
 com.google.android.printservice.recommendation #Google Print Service
